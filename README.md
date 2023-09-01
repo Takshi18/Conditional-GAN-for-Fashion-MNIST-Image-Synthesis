@@ -1,6 +1,7 @@
 # Conditional GAN for Fashion-MNIST Image Synthesis
 
-![Generated Fashion Images](sample_generated_images.png)
+![image](https://github.com/Takshi18/Conditional-GAN-for-Fashion-MNIST-Image-Synthesis/assets/121176455/f99d4f30-b40e-44de-a312-23f0e8ead326)
+
 
 ## Overview
 
