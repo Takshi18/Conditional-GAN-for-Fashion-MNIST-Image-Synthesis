@@ -16,8 +16,8 @@ This repository contains the implementation of a Conditional Generative Adversar
 
 ## Demo
 
-![Available here](https://colab.research.google.com/drive/1-9HMiL9OP5g9_I3TKv6yVeik1bEroEPf?usp=sharing)
-
+[Demo Code Available here][(https://colab.research.google.com/drive/1-9HMiL9OP5g9_I3TKv6yVeik1bEroEPf?usp=sharing)
+](https://colab.research.google.com/drive/1-9HMiL9OP5g9_I3TKv6yVeik1bEroEPf?usp=sharing)
 ![image](https://github.com/Takshi18/Conditional-GAN-for-Fashion-MNIST-Image-Synthesis/assets/121176455/47739e49-cab6-415b-8256-7d997f1e1c73)
 
 
