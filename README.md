@@ -21,7 +21,7 @@ Include a brief description of the project and maybe a GIF or a screenshot showc
 
 You can run this project in Google Colab to take advantage of its powerful GPUs for training. Here's how:
 
-1. Open the [Colab Notebook](link-to-colab-notebook).
+1. Open the [Colab Notebook](https://colab.research.google.com/drive/16iTClkZWFSiTs7GWcKzBYlIh24_Z_MYU?usp=sharing)
 2. Follow the instructions in the notebook to set up your environment and train the CGAN.
 3. Use the trained model to generate new fashion images with different conditions.
 
@@ -40,4 +40,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feel free to customize this template further to include any specific instructions related to running your project in Google Colab. Providing this information can be really helpful for users who want to replicate your work or experiment with your project in a controlled environment.
+
