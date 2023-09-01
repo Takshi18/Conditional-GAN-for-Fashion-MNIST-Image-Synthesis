@@ -16,7 +16,7 @@ This repository contains the implementation of a Conditional Generative Adversar
 
 ## Demo
 
-Include a brief description of the project and maybe a GIF or a screenshot showcasing some generated images.
+![Available here](https://colab.research.google.com/drive/1-9HMiL9OP5g9_I3TKv6yVeik1bEroEPf?usp=sharing)
 
 ## Running in Google Colab
 
